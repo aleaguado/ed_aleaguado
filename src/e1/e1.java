@@ -11,5 +11,10 @@ package e1;
  * @author Professor
  */
 public class e1 {
+    public void main() {
+        System.out.println("Ola!!!!");
+    
+    }
+    
     
 }
